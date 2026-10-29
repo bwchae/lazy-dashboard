@@ -1,6 +1,6 @@
 # Lazy Dashboard
 
-[Connect IQ 스토어](https://apps.garmin.com/apps/6b6fd786-e6ac-4419-9f56-75a55b97b7a3) · [English manual](README.md)
+[Connect IQ 스토어](https://apps.garmin.com/apps/6b6fd786-e6ac-4419-9f56-75a55b97b7a3) · [English manual](README.md) · [日本語マニュアル](README.ja.md)
 
 ![같은 한국어 가민, 숫자만 다릅니다: 가민 기본 필드 / CIQ 시스템 숫자 / Lazy Digits](docs/kor-digits.png)
 
@@ -176,6 +176,7 @@ Garmin Edge용 Connect IQ 데이터 필드입니다. 화면 하나에 케이던�
 | 기어가 안 나옴 | 전자식이면 변속기 센서 페어링. 수동 변속기는 아래 "수동 변속기" 참고 |
 | 톱니수·기어비가 이상함 | 가민 센서 설정의 톱니수 입력. 고친 뒤 각 기어를 한 번씩 사용 |
 | 바람이 `--` | 폰 연결, 속도가 5 km/h 이상인지(진행 방향 필요) |
+| 땀이나 비로 필드가 다른 항목으로 바뀜 | 터치스크린이 길게 누름으로 받아들인 것입니다. 땀이 많이 나거나 비 오는 날은 **화면 잠금**을 쓰세요(터치 기기: 전원 버튼을 누르면 잠금·해제). 바뀐 칸은 데이터 화면 편집에서 Lazy Dashboard로 되돌립니다 |
 | 주행 중 IQ 로고만 나옴 | 앱 오류로 꺼진 상태입니다. 기록은 그대로이니 평소 화면으로 넘겨 계속 달리세요. 아래 "주행 중 다시 켜기"로 활동을 끝내지 않고 다시 켤 수 있습니다. `Garmin\Apps\LOGS\`의 `CIQ_LOG` 파일(`.YML` 또는 `.BAK`)을 개발자에게 보내 주세요 |
 | 화면이 비거나 파랗게 나옴 | 개발자에게 알려 주세요(기기·화면 상태 사진) |
 

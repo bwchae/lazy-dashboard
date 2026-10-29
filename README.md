@@ -1,6 +1,6 @@
 # Lazy Dashboard
 
-[Connect IQ Store](https://apps.garmin.com/apps/6b6fd786-e6ac-4419-9f56-75a55b97b7a3) · [한국어 설명서](README.ko.md)
+[Connect IQ Store](https://apps.garmin.com/apps/6b6fd786-e6ac-4419-9f56-75a55b97b7a3) · [한국어 설명서](README.ko.md) · [日本語マニュアル](README.ja.md)
 
 ![Lazy Dashboard on an Edge 1040](docs/edge1040-ride.png)
 
@@ -192,6 +192,7 @@ Without electronic shifting (AXS / Di2) data the drivetrain row changes:
 | No gears | Electronic: pair the shifting sensor. Mechanical: see "Mechanical groupsets" |
 | Wrong teeth / ratio | Enter teeth in the Edge's sensor settings, then use each gear once |
 | Wind shows `--` | Phone connected; riding faster than 5 km/h (needs a heading) |
+| Sweat or rain swapped the field for another one | The touchscreen took it for a long press. On sweaty or rainy days **lock the screen** (touch units: press the power key during an activity to lock / unlock). Put Lazy Dashboard back in the data screen editor |
 | Only an IQ logo mid-ride | The field stopped on an error. Your ride is still recorded: swipe to a regular screen and ride on. See "Restarting it mid-ride" below to bring it back without ending the ride. Please send the developer the `CIQ_LOG` file (`.YML` or `.BAK`) from `Garmin\Apps\LOGS\` |
 | Blank or blue field | Tell the developer (photo of the device and screen) |
 
