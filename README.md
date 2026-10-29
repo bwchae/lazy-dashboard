@@ -4,7 +4,7 @@
 
 ![Lazy Dashboard on an Edge 1040](docs/edge1040-ride.png)
 
-This repository holds the user manual only. Questions and bug reports: [Issues](https://github.com/bwchae/lazy-dashboard/issues).
+This repository holds the user manual only. Questions and bug reports: e-mail the developer at [lazyfrmr@gmail.com](mailto:lazyfrmr@gmail.com), or comment on the [introduction post](https://corearoadbike.com/board/board.php?t_id=Menu03Top1&no=2628419) (Korean cycling forum).
 
 A Connect IQ data field for Garmin Edge. One screen shows cadence, speed, power and heart rate, your drivetrain (gears
 and cross-chain guidance), wind, grade and altitude, and component batteries. Verified with SRAM AXS; Shimano Di2 gears

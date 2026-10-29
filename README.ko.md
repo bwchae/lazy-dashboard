@@ -6,7 +6,7 @@
 
 ![코스 안내: 달릴 때 / 멈추면 / 코스를 벗어나면 (실제 Edge 1040)](docs/course.png)
 
-이 저장소에는 사용 설명서만 있습니다. 질문·문제 제보: [Issues](https://github.com/bwchae/lazy-dashboard/issues)
+이 저장소에는 사용 설명서만 있습니다. 질문·문제 제보는 [도싸 소개글](https://corearoadbike.com/board/board.php?t_id=Menu03Top1&no=2628419) 댓글이나 개발자 이메일 [lazyfrmr@gmail.com](mailto:lazyfrmr@gmail.com)로 보내 주세요.
 
 Garmin Edge용 Connect IQ 데이터 필드입니다. 화면 하나에 케이던스·속도·파워·심박, 변속(기어·크로스체인 안내),
 바람·경사·고도, 부품 배터리를 모아 보여줍니다. SRAM AXS에서 검증했고, Shimano Di2는 기어 표시를 지원합니다
