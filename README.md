@@ -95,6 +95,7 @@ Selecting an item opens its list of values; picking one saves it.
 | Cross-chain pop-up | after 10 s | Pop-up if it lasts; 0 = off |
 | Easier-gear hint | On | Cadence coaching (below) |
 | BLE battery scan | On | Reads AXS battery %; off saves battery |
+| Record to FIT | On | Component batteries and cross-chain time in the activity's FIT file. Garmin limits the developer fields of one activity, shared by every Connect IQ data field on it, so with several recording data fields Lazy Dashboard can stop right at the start. Turn this off then (applies the next time the field starts) |
 | Battery row | All sensors | "Drivetrain + power meter only" shows shifters, derailleurs and the power meter and hides radar / speed / cadence sensors (bigger icons). FIT recording unchanged |
 
 **Auto cells**
@@ -193,6 +194,7 @@ Without electronic shifting (AXS / Di2) data the drivetrain row changes:
 | Wrong teeth / ratio | Enter teeth in the Edge's sensor settings, then use each gear once |
 | Wind shows `--` | Phone connected; riding faster than 5 km/h (needs a heading) |
 | Sweat or rain swapped the field for another one | The touchscreen took it for a long press. On sweaty or rainy days **lock the screen** (touch units: press the power key during an activity to lock / unlock). Put Lazy Dashboard back in the data screen editor |
+| Only an IQ logo right from the start (other Connect IQ data fields in use) | The data fields together ran out of the activity's FIT developer fields. Turn **Record to FIT** off in the settings, or use fewer Connect IQ data fields in that activity profile |
 | Only an IQ logo mid-ride | The field stopped on an error. Your ride is still recorded: swipe to a regular screen and ride on. See "Restarting it mid-ride" below to bring it back without ending the ride. Please send the developer the `CIQ_LOG` file (`.YML` or `.BAK`) from `Garmin\Apps\LOGS\` |
 | Blank or blue field | Tell the developer (photo of the device and screen) |
 
