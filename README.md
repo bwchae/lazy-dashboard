@@ -74,7 +74,9 @@ there). Your settings are kept.
 - **Phone** — wind uses the weather Garmin Connect on your phone keeps on the Edge. Without a phone the wind area
   shows **No phone**. If the phone that was connected during the ride drops out, it turns into a red **No phone!** box,
   and riding off after a stop of more than 5 minutes with the phone gone for 20 s brings a **full-screen alert with a
-  tone**, once (left at the café?). Tap the screen or press Back to close it.
+  tone**, once (left at the café?). Tap the screen or press Back to close it; left alone, the Edge closes it after a
+  while. The red **No phone!** stays until the phone connects again. Start a ride without a phone and there is no alert
+  or tone, just the grey **No phone**.
 
 ## 5. Settings
 
