@@ -2,7 +2,7 @@
 
 [Connect IQ 스토어](https://apps.garmin.com/apps/6b6fd786-e6ac-4419-9f56-75a55b97b7a3) · [English manual](README.md) · [日本語マニュアル](README.ja.md)
 
-전자식 변속기가 없는 자전거라면 **[Lazy Dashboard – Mechanical](mechanical/README.ko.md)**: 속도와 케이던스로 기어를 추정해 보여 줍니다.
+기계식 구동계가 장착된 자전거라면 **[Lazy Dashboard – Mechanical](mechanical/README.ko.md)**: 속도와 케이던스로 기어를 추정해 보여 줍니다.
 
 ![같은 한국어 가민, 숫자만 다릅니다: 가민 기본 필드 / CIQ 시스템 숫자 / Lazy Digits](docs/kor-digits.png)
 

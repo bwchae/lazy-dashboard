@@ -6,7 +6,7 @@
 
 질문·문제 제보는 개발자 이메일 [lazyfrmr@gmail.com](mailto:lazyfrmr@gmail.com)로 보내 주세요.
 
-**전자식 변속기가 없는 자전거**를 위한 Lazy Dashboard입니다. Lazy Dashboard의 한 화면 대시보드와 같고, 다른 점은
+**기계식 구동계가 장착된 자전거**를 위한 Lazy Dashboard입니다. Lazy Dashboard의 한 화면 대시보드와 같고, 다른 점은
 하나입니다: 구동계 줄에 속도와 케이던스로 계산한 **추정 기어**가 나옵니다. 그 밖의 기능(케이던스·속도 클러스터, 파워, 심박,
 경사, 바람, 코스, 배터리)은 [Lazy Dashboard 설명서](https://github.com/bwchae/lazy-dashboard)와 같고, 이 문서는 다른 점만
 다룹니다.
