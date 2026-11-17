@@ -2,6 +2,8 @@
 
 [Connect IQ Store](https://apps.garmin.com/apps/6b6fd786-e6ac-4419-9f56-75a55b97b7a3) · [한국어 설명서](README.ko.md) · [日本語マニュアル](README.ja.md)
 
+Bike without electronic shifting? **[Lazy Dashboard – Mechanical](mechanical/README.md)** shows the gear estimated from speed and cadence.
+
 ![Lazy Dashboard on an Edge 1040](docs/edge1040-ride.png)
 
 This repository holds the user manual only. Questions and bug reports: e-mail the developer at [lazyfrmr@gmail.com](mailto:lazyfrmr@gmail.com), or comment on the [introduction post](https://corearoadbike.com/board/board.php?t_id=Menu03Top1&no=2628419) (Korean cycling forum).
