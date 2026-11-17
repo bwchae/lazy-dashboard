@@ -19,6 +19,16 @@ send one thing off the Edge: your **approximate position**, to get the wind and 
   seen, the last rounded position for the weather request). With **Record to FIT** on, a few extra fields go into your
   own activity file, which goes wherever you sync your activities.
 
+- **Your IP address:** like any web request, Open-Meteo also sees the internet address of your phone's
+  connection; its terms above say how it handles that. The developer never sees it.
+- **Consent and control:** the Connect IQ app asks you to allow internet access when you install or update the
+  app. You can turn **Online wind** off at any time, which stops the only data sent to a third party; removing the
+  app stops it too.
+- **Your rights (for example under the GDPR):** the developer holds no personal data about you, so there is nothing
+  to access, export or delete. For the request data Open-Meteo receives, contact Open-Meteo.
+- **Not Garmin:** these apps are made by an independent developer, not by Garmin. Data the apps send goes to the
+  services named here, not to Garmin, and Garmin is not responsible for it.
+
 Questions: [lazyfrmr@gmail.com](mailto:lazyfrmr@gmail.com).
 
 ## 한국어
@@ -36,6 +46,15 @@ Questions: [lazyfrmr@gmail.com](mailto:lazyfrmr@gmail.com).
 - **개발자**는 사용자나 Edge의 데이터를 받거나 모으거나 저장하지 않습니다. 서버, 분석 도구, 광고가 없습니다.
 - **Edge 안에만:** 앱 설정과 라이딩 사이에 기억하는 몇 가지 값(예: 연결됐던 센서, 날씨 요청용 반올림 위치). **FIT 기록**이
   켜져 있으면 사용자 자신의 활동 파일에 몇 칸이 더 기록되고, 그 파일은 사용자가 동기화하는 곳으로만 갑니다.
+
+- **IP 주소:** 모든 웹 요청처럼 Open-Meteo는 휴대폰 인터넷 연결의 주소(IP)도 봅니다. 그 처리는 위 Open-Meteo 약관을
+  따르며, 개발자는 이 주소를 보지 못합니다.
+- **동의와 제어:** 앱을 설치하거나 업데이트할 때 Connect IQ 앱이 인터넷 사용 허용을 묻습니다. **온라인 바람**은 언제든
+  끌 수 있고, 끄면 제3자에게 보내는 유일한 데이터가 멈춥니다. 앱을 지워도 멈춥니다.
+- **사용자 권리 (예: GDPR):** 개발자는 사용자에 대한 개인정보를 갖고 있지 않으므로 열람·내보내기·삭제할 것이 없습니다.
+  Open-Meteo가 받은 요청 데이터는 Open-Meteo에 문의하세요.
+- **가민과의 관계:** 이 앱은 가민이 아닌 개인 개발자가 만들었습니다. 앱이 보내는 데이터는 가민이 아니라 여기 적힌
+  서비스로 가며, 가민은 이에 대해 책임지지 않습니다.
 
 문의: [lazyfrmr@gmail.com](mailto:lazyfrmr@gmail.com)
 
@@ -56,6 +75,15 @@ Garmin Edge 用の Connect IQ データフィールド（Lazy Dashboard 1.2.0 �
   位置など）。**FIT記録** がオンなら、ご自身のアクティビティファイルに数項目が加わり、そのファイルはご自身が同期する先にだけ
   送られます。
 
+- **IP アドレス：** ほかのウェブ通信と同じく、Open-Meteo はスマートフォンの接続のアドレス（IP）も受け取ります。その扱いは
+  上記の Open-Meteo の規約によります。開発者がこのアドレスを見ることはありません。
+- **同意と管理：** アプリのインストールやアップデートの際、Connect IQ アプリがインターネットの利用許可を求めます。
+  **オンライン風** はいつでもオフにでき、オフにすると第三者へ送られる唯一のデータが止まります。アプリを削除しても止まります。
+- **利用者の権利（GDPR など）：** 開発者は利用者の個人データを持っていないため、開示・書き出し・削除するものはありません。
+  Open-Meteo が受け取った通信データについては Open-Meteo にお問い合わせください。
+- **Garmin との関係：** このアプリは Garmin ではなく個人の開発者が作ったものです。アプリが送るデータは Garmin ではなく
+  ここに記したサービスへ送られ、Garmin はこれに責任を負いません。
+
 お問い合わせ：[lazyfrmr@gmail.com](mailto:lazyfrmr@gmail.com)
 
 ## 繁體中文
@@ -73,5 +101,14 @@ Garmin Edge 用的 Connect IQ 資料欄位（Lazy Dashboard 1.2.0 起，以及 L
 - **開發者** 不接收、不收集、也不儲存您或 Edge 的任何資料；沒有伺服器、分析或廣告。
 - **只在 Edge 上：** 應用程式的設定，以及騎乘之間保留的少數數值（例如連過的感測器、天氣查詢用的取整位置）。**FIT 記錄**
   開啟時，您自己的活動檔會多寫入幾個欄位，該檔案只會送到您自己同步的地方。
+
+- **IP 位址：** 與所有網路請求一樣，Open-Meteo 也會看到您手機網路連線的位址（IP），其處理方式依上述 Open-Meteo 條款。
+  開發者看不到這個位址。
+- **同意與控制：** 安裝或更新應用程式時，Connect IQ 應用程式會詢問是否允許使用網路。**線上風況** 可隨時關閉，關閉後
+  唯一送給第三方的資料就會停止；移除應用程式也會停止。
+- **您的權利（例如 GDPR）：** 開發者不持有您的任何個人資料，因此沒有可供查閱、匯出或刪除的資料。關於 Open-Meteo 收到的
+  請求資料，請洽 Open-Meteo。
+- **與 Garmin 的關係：** 本應用程式由獨立開發者製作，並非 Garmin。應用程式送出的資料是送往此處列出的服務，而非
+  Garmin，Garmin 對此不負責任。
 
 聯絡：[lazyfrmr@gmail.com](mailto:lazyfrmr@gmail.com)
