@@ -6,7 +6,7 @@
 
 問題與錯誤回報請寄信給開發者 [lazyfrmr@gmail.com](mailto:lazyfrmr@gmail.com)。
 
-給 **沒有電子變速的自行車** 使用的 Lazy Dashboard。與 Lazy Dashboard 的一頁式儀表板相同，只有一處不同：傳動系統列會顯示
+給 **機械式變速自行車** 使用的 Lazy Dashboard。與 Lazy Dashboard 的一頁式儀表板相同，只有一處不同：傳動系統列會顯示
 由速度與踏頻算出的 **推估檔位**。其他功能（踏頻・速度儀表、功率、心率、坡度、風、路線、電量）請見
 [Lazy Dashboard 使用手冊](https://github.com/bwchae/lazy-dashboard)，本文只說明不同之處。
 

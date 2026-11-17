@@ -6,7 +6,7 @@
 
 Questions and bug reports: e-mail the developer at [lazyfrmr@gmail.com](mailto:lazyfrmr@gmail.com).
 
-Lazy Dashboard for bikes **without electronic shifting**. It is Lazy Dashboard's one-screen cockpit with one
+Lazy Dashboard for bikes with a **mechanical groupset**. It is Lazy Dashboard's one-screen cockpit with one
 difference: the drivetrain row shows the **estimated gear**, worked out from speed and cadence. Everything else
 (cadence and speed cluster, power, heart rate, grade, wind, course, batteries) works as in the
 [Lazy Dashboard manual](https://github.com/bwchae/lazy-dashboard) — this page covers only what is different.

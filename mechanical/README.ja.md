@@ -6,7 +6,7 @@
 
 ご質問・不具合のご報告は開発者のメール [lazyfrmr@gmail.com](mailto:lazyfrmr@gmail.com) までお送りください。
 
-**電動変速のない自転車**のための Lazy Dashboard です。Lazy Dashboard の1画面コックピットと同じで、違いは1つだけです：
+**機械式コンポの自転車**のための Lazy Dashboard です。Lazy Dashboard の1画面コックピットと同じで、違いは1つだけです：
 ドライブトレインの欄に、スピードとケイデンスから計算した **推定ギア** が出ます。そのほかの機能（ケイデンス・スピードの
 メーター、パワー、心拍、勾配、風、コース、バッテリー）は [Lazy Dashboard マニュアル](https://github.com/bwchae/lazy-dashboard)
 と同じで、このページでは違う点だけを説明します。

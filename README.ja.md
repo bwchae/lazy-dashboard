@@ -2,7 +2,7 @@
 
 [Connect IQ ストア](https://apps.garmin.com/apps/6b6fd786-e6ac-4419-9f56-75a55b97b7a3) · [English manual](README.md) · [한국어 설명서](README.ko.md)
 
-電動変速のない自転車には **[Lazy Dashboard – Mechanical](mechanical/README.ja.md)**：スピードとケイデンスからギアを推定して表示します。
+機械式コンポの自転車には **[Lazy Dashboard – Mechanical](mechanical/README.ja.md)**：スピードとケイデンスからギアを推定して表示します。
 
 ![Edge 1040 での Lazy Dashboard（英語表示）](docs/edge1040-ride.png)
 
