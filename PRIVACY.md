@@ -4,7 +4,7 @@
 
 Last updated: 2026-11-17. Developer: Lazy Farmer, [lazyfrmr@gmail.com](mailto:lazyfrmr@gmail.com).
 
-These Connect IQ data fields for Garmin Edge (Lazy Dashboard from version 1.2.0, and Lazy Dashboard – Mechanical)
+These Connect IQ data fields for Garmin Edge (Lazy Dashboard from version 1.3.0, and Lazy Dashboard – Mechanical)
 send one thing off the Edge: your **approximate position**, to get the wind and air temperature.
 
 - **What is sent:** your position rounded to 0.05° (about 5 km), and nothing else — no name, account, device ID or
@@ -35,7 +35,7 @@ Questions: [lazyfrmr@gmail.com](mailto:lazyfrmr@gmail.com).
 
 최종 수정: 2026-11-17. 개발자: Lazy Farmer, [lazyfrmr@gmail.com](mailto:lazyfrmr@gmail.com).
 
-가민 Edge용 Connect IQ 데이터 필드(Lazy Dashboard 1.2.0부터, Lazy Dashboard – Mechanical)는 바람과 기온을 받기 위해
+가민 Edge용 Connect IQ 데이터 필드(Lazy Dashboard 1.3.0부터, Lazy Dashboard – Mechanical)는 바람과 기온을 받기 위해
 **대략적인 위치** 한 가지만 Edge 밖으로 보냅니다.
 
 - **보내는 것:** 0.05°(약 5 km) 단위로 반올림한 위치뿐입니다. 이름, 계정, 기기 ID, 라이딩 데이터는 보내지 않습니다.
@@ -62,7 +62,7 @@ Questions: [lazyfrmr@gmail.com](mailto:lazyfrmr@gmail.com).
 
 最終更新：2026-11-17。開発者：Lazy Farmer、[lazyfrmr@gmail.com](mailto:lazyfrmr@gmail.com)。
 
-Garmin Edge 用の Connect IQ データフィールド（Lazy Dashboard 1.2.0 以降、Lazy Dashboard – Mechanical）が Edge の外へ送るのは、
+Garmin Edge 用の Connect IQ データフィールド（Lazy Dashboard 1.3.0 以降、Lazy Dashboard – Mechanical）が Edge の外へ送るのは、
 風と気温を受け取るための **おおよその位置** だけです。
 
 - **送るもの：** 0.05°（約 5 km）単位に丸めた位置のみ。名前、アカウント、機器 ID、ライドのデータは送りません。
@@ -90,7 +90,7 @@ Garmin Edge 用の Connect IQ データフィールド（Lazy Dashboard 1.2.0 �
 
 最後更新：2026-11-17。開發者：Lazy Farmer，[lazyfrmr@gmail.com](mailto:lazyfrmr@gmail.com)。
 
-Garmin Edge 用的 Connect IQ 資料欄位（Lazy Dashboard 1.2.0 起，以及 Lazy Dashboard – Mechanical）為了取得風況與溫度，
+Garmin Edge 用的 Connect IQ 資料欄位（Lazy Dashboard 1.3.0 起，以及 Lazy Dashboard – Mechanical）為了取得風況與溫度，
 只會把 **大約的位置** 這一項送出 Edge。
 
 - **送出的內容：** 取整到 0.05°（約 5 km）的位置，僅此而已；不送姓名、帳號、裝置 ID 或騎乘資料。
